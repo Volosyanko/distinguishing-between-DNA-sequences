@@ -1,0 +1,2 @@
+# distinguishing-between-DNA-sequences
+Bacteriophages, or just phages, are viruses that infect bacteria and regulate bacterial populations in natural ecosystems. However, phages invade the human body, just as they do other natural environments, and they contribute to the evolution of bacterial cells in the human body by acquiring and spreading DNA. The immune system reacts to them, although it is not clear to what extent, and their impact on human health is not yet known. Studies suggest that more attention needs to be paid to their interference.
